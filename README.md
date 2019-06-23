@@ -1,4 +1,4 @@
-# arch-efistub
+# 🧠 arch-efistub
 
 So basically I was playing around and trying to find a way to replace GRUB, the
 bootloader most people and GNU/Linux distributions use. As it turns out, if you
